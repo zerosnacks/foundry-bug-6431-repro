@@ -1,0 +1,6 @@
+forge-std/=lib/forge-std/src/
+openzeppelin/=lib/seadrop/lib/openzeppelin-contracts/contracts
+seadrop/=lib/seadrop/
+openzeppelin-contracts/=lib/seadrop/lib/openzeppelin-contracts/contracts/
+openzeppelin-contracts-upgradeable/=lib/seadrop/lib/openzeppelin-contracts-upgradeable/contracts/
+utility-contracts/=lib/seadrop/lib/utility-contracts/src/
