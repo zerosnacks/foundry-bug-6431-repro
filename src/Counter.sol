@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 
-import {ERC721SeaDrop} from "seadrop/src/ERC721SeaDrop.sol";
+import {ERC721SeaDrop} from "seadrop/ERC721SeaDrop.sol";
 
 contract Counter is ERC721SeaDrop {
     uint256 public number;
